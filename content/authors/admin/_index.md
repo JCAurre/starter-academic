@@ -22,9 +22,12 @@ organizations:
 bio: I am a 4th year PhD student at King's College London under the supervision of Eugene Lim.
 
 interests:
+- Strong-Field Gravity
 - Topological Defects
 - Early Universe Cosmology
 - Gravitational Waves
+- Numerical Methods
+
 
 education:
   courses:
@@ -55,7 +58,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jc_aurrekoetxea
-  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

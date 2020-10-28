@@ -26,22 +26,23 @@ subtitle = ""
 #  name = "GitHub"
   # description = "100%"  
 
-[[feature]]
-  icon = "border-none"
-  icon_pack = "fas"
-  name = "Adaptive Mesh Refinement"
-  # description = "10%"
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "C++"
+  name = "C++/Python/Fortran"
   # description = "10%"
 
 [[feature]]
   icon = "server"
   icon_pack = "fas"
-  name = "MPI / OpenMP / SIMD"
+  name = "High-Performance Computing"
+  # description = "10%"
+
+  [[feature]]
+  icon = "border-none"
+  icon_pack = "fas"
+  name = "Adaptive Mesh Refinement"
   # description = "10%"
 
 # Uncomment to use emoji icons.
