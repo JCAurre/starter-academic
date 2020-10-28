@@ -34,6 +34,8 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
+
+
 [[item]]
   title = "Left"
   content = "I am left aligned :smile:"
