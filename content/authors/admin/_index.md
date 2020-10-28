@@ -77,8 +77,9 @@ user_groups:
 - PhD Students
 ---
 
-I am a 4th year PhD student at King's College London under the supervision of Eugene Lim. My main research area is the strong field regime of gravity, in particular I am interested in gravitational waves and theoretical cosmology.
+I am an expert in the use of strong-field gravity to probe fundamental physics. My area of specialisation is numerical relativity, which is the use of high-performance computing methods to solve Einstein’s equations of general relativity to study cosmological and astrophysical phenomena in
+the most extreme regimes of gravity.
 
-I attended the Saturnino de la Pena high school in Sestao (Bizkaia). I pursued the degree in Physics at the University of the Basque Country where I specialised in fundamental physics. I completed the MSc in Quantum Fields & Fundamental Forces at Imperial College London before moving to King's College London, where I am now a 4th year PhD student. 
+I attended the Saturnino de la Pena high school in Sestao (Bizkaia) and pursued the degree in Physics at the University of the Basque Country where I specialised in fundamental physics. I completed the MSc in Quantum Fields & Fundamental Forces at Imperial College London before moving to King's College London, where I am now a 4th year PhD student under the supervision of Eugene Lim.
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+<!-- {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} -->
