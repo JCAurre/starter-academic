@@ -14,23 +14,35 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+#[[feature]]
+#  icon = "osi"
+#  icon_pack = "fab"
+#  name = "Open Source"
+#  # description = "90%"
   
+#[[feature]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  name = "GitHub"
+  # description = "100%"  
+
 [[feature]]
-  icon = "chart-line"
+  icon = "border-none"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Adaptive Mesh Refinement"
+  # description = "10%"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "C++"
+  # description = "10%"
+
+[[feature]]
+  icon = "server"
+  icon_pack = "fas"
+  name = "MPI / OpenMP / SIMD"
+  # description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

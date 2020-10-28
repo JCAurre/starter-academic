@@ -1,37 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Josu C. Aurrekoetxea
+
+# Username (this should match the folder name)
+authors:
+- aurrekoetxea
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
+organization_name: King's College London
 organizations:
-- name: Stanford University
+- name: King's College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a 4th year PhD student at King's College London under the supervision of Eugene Lim.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Topological Defects
+- Early Universe Cosmology
+- Gravitational Waves
 
-education:
+career:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD
+    institution: King's College London
+    year: 2017-2021
+  - course: Master
+    institution: Imperial College London
+    year: 2016-2017
+  - course: Undergraduate
+    institution: University of the Basque Country
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:j.c.aurrekoetxea@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: inspire
+  icon_pack: ai
+  link: https://inspirehep.net/authors/1689364
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/josu-c-aurrekoetxea/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/jc_aurrekoetxea
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,16 +64,12 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- PhD Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a 4th year PhD student at King's College London under the supervision of Eugene Lim. My main research area is the strong field regime of gravity, in particular I am interested in gravitational waves and theoretical cosmology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I attended the Saturnino de la Pena high school in Sestao (Bizkaia). I pursued the degree in Physics at the University of the Basque Country where I specialised in fundamental physics. I completed the MSc in Quantum Fields & Fundamental Forces at Imperial College London before moving to King's College London, where I am now a 4th year PhD student. 
