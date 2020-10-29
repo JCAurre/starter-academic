@@ -18,8 +18,8 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: background.png
-    image_darken: 0.6
+    # image: background.png
+    # image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
@@ -34,16 +34,9 @@ design:
   }
 </style>
 
-These are some of the 3D visualisations I have created:
+These are some of the 3D visualisations of my research. <A HREF="/movies">Click here for more movies!</A>
 
 **_Coherent Gravitational Waveforms from Cosmic String Loops_ (2020)**
 <p class="bottom-three">
 {{< youtube -dhYA2788LA >}}
-</p>
-
-<br>
-
-**_Volume rendering of a binary black hole merger_ (2018)**
-<p class="bottom-three">
-{{< youtube XItUV3n5IzQ >}}
 </p>

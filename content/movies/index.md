@@ -1,6 +1,6 @@
 ---
 title: Movies
-summary: Here we link to some YouTube movies done from data GRChombo.
+summary: Here I link to more 3D visualisations.
 date: ""
 
 reading_time: false  # Show estimated reading time?
@@ -15,12 +15,23 @@ header:
 ---
 
 <style>
-  .bottom-three {
-     margin-bottom: 0.5cm;
-  }
+  .bottom-three {margin-bottom: 0.5cm;}
+  .foo { max-width:35em }
 </style>
 
-You can find more in our <a href="https://www.youtube.com/channel/UCitRsfCgQ1qiz9hvAM20GUQ">Youtube channel</a>.
+<div class="foo">
+	Here I present the visualisations of my projects. The software used is Python, YT-Project, VisIt, Adobe Photoshop and Sony Vegas.
+</div>
+
+<br>
+
+
+**_Coherent Gravitational Waveforms from Cosmic String Loops_ (2020)**
+<p class="bottom-three">
+{{< youtube 0sSH54gXu4U >}}
+</p>
+
+<br>
 
 **_Coherent Gravitational Waveforms from Cosmic String Loops_ (2020)**
 <p class="bottom-three">
@@ -29,22 +40,22 @@ You can find more in our <a href="https://www.youtube.com/channel/UCitRsfCgQ1qiz
 
 <br>
 
-**_Volume rendering of a binary black hole merger_ (2018)**
+**_The Effects of Potential Shape on Inhomogenous Inflation_ (2019)**
 <p class="bottom-three">
-{{< youtube XItUV3n5IzQ >}}
+{{< youtube yk9sGuG8hdI >}}
 </p>
 
 <br>
 
 
-**_Ultraspinning instability of a 6D Myers-Perry black hole_ (2017)**
+**_Dispersion - Cosmic String Loop Collapse in Full GR_ (2018)**
 <p class="bottom-three">
-{{< youtube C2IL7nN6mlA >}}
+{{< youtube nHH3gTEjMPo >}}
 </p>
 
 <br>
 
-**_Ring of black holes collapsing to single black hole_ (2015)**
+**_Black Hole Formation - Cosmic String Loop Collapse in Full GR_ (2018)**
 <p class="bottom-three">
-{{< youtube ccIzzzPUTvY >}}
+{{< youtube U5CkThsDU6w >}}
 </p>
