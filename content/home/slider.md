@@ -16,10 +16,10 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "Welcome to my website :smile:"
+  title = "Welcome!"
+  content = "This is my personal website (under construction).<br/> Scroll down for details of my work, talks, and pretty movies!"
   align = "center"  # Choose `center`, `left`, or `right`.
-
+  
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
