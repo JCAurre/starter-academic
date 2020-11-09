@@ -36,7 +36,7 @@ design:
 
 These are some of the 3D visualisations of my research. <A HREF="/movies">Click here for more movies!</A>
 
-**_Coherent Gravitational Waveforms from Cosmic String Loops_ (2020)**
+**_Coherent Gravitational Waveforms from Cosmic String Loops - GW Radiation_ (2020)**
 <p class="bottom-three">
 {{< youtube -dhYA2788LA >}}
 </p>

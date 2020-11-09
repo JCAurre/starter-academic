@@ -1,5 +1,5 @@
 +++
-title = "Identifying exotic gravitational-wave progenitors with black hole spectroscopy"
+title = "Distinguishing atypical gravitational-wave progenitors with black hole spectroscopy"
 date = 2020-10-01
 authors = ["Andrew Williamson", "Josu C. Aurrekoetxea", "Thomas Helfer", "Eugene A. Lim", "Samaya Nissanke"]
 publication_types = ["2"]

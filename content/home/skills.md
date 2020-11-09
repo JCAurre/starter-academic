@@ -39,10 +39,10 @@ subtitle = ""
   name = "High-Performance Computing"
   # description = "10%"
 
-[[feature]]
-  icon = "github-square"
-  icon_pack = "fab"
-  name = "Version Control"
+#[[feature]]
+#  icon = "github-square"
+#  icon_pack = "fab"
+#  name = "Version Control"
   # description = "10%"
 
    [[feature]]
