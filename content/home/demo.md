@@ -18,8 +18,8 @@ subtitle:
 design:
   columns: "1"
   background:
-    # image: background.png
-    # image_darken: 0.6
+    image: background.png
+    image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
